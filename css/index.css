@@ -295,3 +295,26 @@ footer nav a {
   color: white;
   text-decoration: none;
 }
+
+/* About page css starts here */
+
+.about {
+  padding: 25px;
+  border-bottom: 1px dashed black;
+}
+
+.card-area1 {
+  display: flex;
+  justify-content: space-around;
+  margin: 25px 0px 25px 0px;
+}
+
+.card-area2 {
+  display: flex;
+  justify-content: space-around;
+  margin: ;
+}
+
+.card {
+  width: 370px;
+}
