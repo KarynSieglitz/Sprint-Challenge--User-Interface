@@ -144,6 +144,18 @@ body {
 header nav {
   display: flex;
   justify-content: space-between;
+  margin-bottom: 35px;
+  align-items: center;
+}
+
+header nav a {
+  align-self: flex-end;
+  text-decoration: none;
+  color: black;
+}
+
+header nav a:hover {
+  color: red;
 }
 
 h1,
