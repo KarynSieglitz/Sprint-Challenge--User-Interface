@@ -319,6 +319,10 @@ footer nav a {
   border-radius: 10px;
 }
 
+.card a:hover {
+  background-color: lightgray;
+}
+
 .button {
   margin: 30px 0px 10px 0px;
 }
@@ -337,4 +341,8 @@ footer nav a {
 
 .card-img {
   padding-bottom: 10px;
+}
+
+.bottom-article {
+  padding: 35px 25px 35px 25px;
 }
